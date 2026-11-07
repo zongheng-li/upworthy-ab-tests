@@ -219,5 +219,5 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 data/
-*学习指南.pdf
+*.pdf
 .DS_Store
